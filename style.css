@@ -1,0 +1,23 @@
+body {
+    background-color:cornsilk;
+    text-align:center;
+    color: rgb(122, 63, 21);
+}
+
+h1 {
+    font-size: 100px;
+    border-radius: 5px;
+    margin: 10px;
+
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    border-radius: 20px;
+    border: 2px solid rgb(122, 63, 21);
+    margin: 10px;
+    
+}
